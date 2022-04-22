@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyamHaidar
 - 👀 I’m interested in Programming & Design
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React & Flutter
 
 <!---
 SyamHaidar/SyamHaidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
